@@ -1,0 +1,17 @@
+.subject_divs {
+  background-color:#CCBFB3;
+  margin: 0px 5px;
+}
+
+.cluster_divs {
+  width: 200px !important; /*force override of bokeh's default auto-sizing policy*/
+  height: 2.5em !important;
+  background-color:#429e5a;
+  margin: 0px 5px;
+}
+
+.region_divs {
+  width: 200px !important;
+  height: 2.5em !important;
+  background-color:#c6e2f2;
+}
